@@ -1,3 +1,4 @@
 <div>
-    Haloo, this is sales page :D
+    Haloo, this is sales page
+     :D
 </div>
